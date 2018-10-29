@@ -25,5 +25,5 @@ def main():
     aUser = [i for i in a if i>userLimit]
     print(aUser)
 
-if "__name" == __main__:
+if __name__ == "__main__":
     main()
